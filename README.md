@@ -1,1 +1,1 @@
-# wp-vistag
+# Official Wordpress Vistag plugin
